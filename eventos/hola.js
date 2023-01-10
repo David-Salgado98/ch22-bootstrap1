@@ -1,3 +1,5 @@
+
+
 function changeNombre(){
     let nombre = prompt("Ingrese nombre");
     //console.log(nombre);
@@ -6,3 +8,4 @@ function changeNombre(){
     //console.log(etiqueta);
     //etiqueta.textContent = nombre;
 }
+
